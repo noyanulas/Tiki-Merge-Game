@@ -1,8 +1,8 @@
 {
-  "name": "Tiki Merge",
-  "short_name": "Tiki Merge",
-  "description": "A relaxing tropical cocktail merge game.",
-  "start_url": "./index.html",
+  "name": "Tiki Arcade",
+  "short_name": "Tiki Arcade",
+  "description": "A cozy offline arcade of tropical mini-games.",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
