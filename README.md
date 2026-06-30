@@ -6,7 +6,7 @@ It's a single self‑contained web page (HTML5 canvas + vanilla JavaScript). No 
 
 > Replace the bracketed bits below (`<…>`) with your own link / username.
 
-**▶ Play:** `<your-live-url-here>`
+**▶ Play:** `<https://gentle-kringle-f638e7.netlify.app/>`
 
 ---
 
